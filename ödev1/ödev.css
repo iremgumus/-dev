@@ -1,0 +1,72 @@
+*{
+   
+    margin: 0;
+    padding: 0;
+}
+
+.yazı{
+    background-color: rgb(151, 151, 76);
+    font-style: normal;
+
+}
+.yazı:hover{
+    background-color: burlywood;
+}
+.container{
+    background-color: pink;
+    height: 50vh;
+}
+.row{
+    margin-right: 3vh;
+    padding-top: 5vh;
+    margin-left:3vh;
+    background-color: darksalmon;
+    height:20vh; 
+    width: 15vh;
+    text-align: center;
+    
+     
+}
+div.sayfa-detay{
+    text-align: center;
+}
+div.container{
+    text-align: center;
+}
+div.offset-sm-2 {
+    margin:auto;
+    background-color: lightskyblue;
+    position: absolute;
+    height: 50vh;
+    width: 70%;
+    text-align: center;
+    left: 13%;
+    top:6vh ;
+    
+    
+    
+    
+}
+div.form-control{
+    font-size: 5vh;
+}
+
+div.mb-3{
+    font-size: 5vh;
+
+}
+.btn-danger{
+    background-color: rgb(158, 58, 58);
+    text-align: center;
+    font-size: 5vh ;
+    
+}
+.btn-primary{
+    background-color: dodgerblue;
+    text-align: center;
+    font-size: 5vh;
+}
+.footer{
+    background-color: chartreuse;
+    height: 2.5vh;
+}
